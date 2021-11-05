@@ -1,0 +1,13 @@
+Explore the interpreter:
+
+- Execute lines with syntax error and see what the response is.
+  - What happens if you leave out a quotation or parenthesis?
+  synatax error: EOL while scanning string literal
+
+  syntaxError: unexpected EOF while parsing
+  - How helpful are the error messages?
+  the error messages help locate where the erorr is by indicating the line and location
+
+- Use the `help()` function to explore what you can do with the interpreter.
+  - For example execute `help('print')`.
+  - Press `q` to exit.

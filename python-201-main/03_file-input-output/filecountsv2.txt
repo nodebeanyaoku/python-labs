@@ -1,0 +1,1 @@
+{'.xxx': 4, '.RDP': 2, '.docx': 37, '': 18, '.pdf': 14, '.lnk': 14, '.ini': 1, '.pptx': 11, '.zip': 6, '.csv': 1, '.txt': 6, '.mdb': 1, '.xlsx': 4, '.0': 1, '.jpg': 2, '.doc': 19, '.pst': 1, '.url': 1, '.accde': 1, '.scr': 1, '.DOCX': 2, '.exe': 2, '.bbb': 1, '.bat': 2, '.sql': 1, '.fom': 1, '.json': 1, '.mdw': 1, '.tmp': 4}
