@@ -34,7 +34,7 @@ for ext in file_list:
 
 print(ext_dict)
 
-file_dict = {'PNG': 8, 'JPG' : 3, 'WORD': 13 }
+file_dict = {'PNG': 8, 'JPG' : 3, 'WORD': 20 }
 
 class File(Base):
    __tablename__ = 'file'
